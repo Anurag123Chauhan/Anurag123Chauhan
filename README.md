@@ -4,8 +4,6 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=anurag123chauhan&label=Profile%20views&color=0e75b6&style=flat" alt="anurag123chauhan" /> </p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=anurag123chauhan" alt="anurag123chauhan" /></a> </p>
-
 - 💬 Ask me about **C++,Python, HTML, CSS, Ethical Hacking, Technology**
 
 - 📫 How to reach me **chauhananurag322@gmail.com**
