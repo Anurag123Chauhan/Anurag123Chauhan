@@ -11,16 +11,31 @@
 - 💼 I’m looking for **internship opportunities** in tech fields
 - 📫 How to reach me **chauhananurag322@gmail.com**
 - ⚡ Fun fact **Sometimes I live in the world of 0's and 1's**
-<h3 align="left">Connect with me:</h3>
+<h3 align="left">🌐 Socials:</h3>
 <p align="left">
-<a href="https://linkedin.com/in/anurag--chauhan/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="anurag--chauhan/" height="30" width="40" /></a>
-<a href="https://instagram.com/anurag_______chauhan" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="anurag_______chauhan" height="30" width="40" /></a>
-<a href="https://www.codechef.com/users/chauhananurag3" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.1.0/icons/codechef.svg" alt="chauhananurag3" height="30" width="40" /></a>
-<a href="https://www.hackerrank.com/chauhananurag322" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="chauhananurag322" height="30" width="40" /></a>
-<a href="https://codeforces.com/profile/compiall101" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codeforces.svg" alt="compiall101" height="30" width="40" /></a>
-<a href="https://www.leetcode.com/anurag___chauhan" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="anurag___chauhan" height="30" width="40" /></a>
-<a href="https://auth.geeksforgeeks.org/user/chauhananurag322" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/geeks-for-geeks.svg" alt="chauhananurag322" height="30" width="40" /></a>
+  <a href="https://codeforces.com/profile/compiall101" target="blank">
+    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codeforces.svg" alt="compiall101" height="30" width="40" />
+  </a>
+  <a href="https://www.codechef.com/users/chauhananurag3" target="blank">
+    <img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.1.0/icons/codechef.svg" alt="chauhananurag3" height="30" width="40" />
+  </a>
+  <a href="https://www.leetcode.com/anurag___chauhan" target="blank">
+    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="anurag___chauhan" height="30" width="40" />
+  </a>
+  <a href="https://auth.geeksforgeeks.org/user/chauhananurag322" target="blank">
+    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/geeks-for-geeks.svg" alt="chauhananurag322" height="30" width="40" />
+  </a>
+  <a href="https://linkedin.com/in/anurag--chauhan/" target="blank">
+    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="anurag--chauhan/" height="30" width="40" />
+  </a>
+  <a href="https://instagram.com/anurag_______chauhan" target="blank">
+    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="anurag_______chauhan" height="30" width="40" />
+  </a>
+  <a href="https://www.hackerrank.com/chauhananurag322" target="blank">
+    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="chauhananurag322" height="30" width="40" />
+  </a>
 </p>
+
 
 <h3 align="left">Languages and Tools:</h3>
 <p align="left"> 
