@@ -4,9 +4,9 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=anurag123chauhan&label=Profile%20views&color=0e75b6&style=flat" alt="anurag123chauhan" /></p>
 
-- 💬 Ask me about **C++, Python, HTML, CSS, Ethical Hacking, Technology**
+- 💬 Ask me about **C++, MERN, Competitive Programming, Technology**
 - 🔭 I’m currently working on **Web Development projects**
-- 🌱 I’m currently learning **MERN Stack Development**
+- 🌱 I’m currently learning **Data Dtructure and Algorithms**
 - 👨‍💻 All of my projects are available at [My GitHub](https://github.com/anurag123chauhan)
 - 💼 I’m looking for **internship opportunities** in tech fields
 - 📫 How to reach me **chauhananurag322@gmail.com**
